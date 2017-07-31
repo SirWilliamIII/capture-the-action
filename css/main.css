@@ -1,0 +1,96 @@
+@import url('https://fonts.google.com/css?family=Raleway');
+@import url('https://fonts.google.com/css?family=Oswald');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#bg1 {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: url('../assets/summer-mountain.png');
+    min-height: 100%;
+    top: 0;
+    background-size: cover;
+}
+
+#bg2 {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: url('../assets/river-canyon.png');
+    min-height: 100%;
+    top: 0;
+    background-size: cover;
+}
+
+
+#bg3 {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: url('../assets/pianoman.png');
+    min-height: 100%;
+    top: 0;
+    background-size: cover;
+}
+
+#logo {
+    padding: 20px;
+}
+
+.categories {
+    margin-top: 0;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #ccc;
+    padding:       15px;
+}
+
+.pcolor {
+    color: #2da0ed;
+}
+
+.item {
+    margin-top: 20px;
+    margin-left: 15%;
+}
+
+.jumbotron {
+    background: rgba(0, 56, 122, 0.2);
+    color: darksalmon;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
+
+#pianoman {
+    padding: 20px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
